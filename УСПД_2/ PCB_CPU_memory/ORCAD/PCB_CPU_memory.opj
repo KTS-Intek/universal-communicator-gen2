@@ -1,0 +1,41 @@
+(ExpressProject "PCB_CPU_memory"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\pcb_cpu_memory.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Program\WORK_ORCAD\ÓÑÏÄ_2\ PCB_CPU_memory\ORCAD\pcb_cpu_memory.dsn")
+      (Path "Design Resources"
+         "D:\Program\WORK_ORCAD\ÓÑÏÄ_2\ PCB_CPU_memory\ORCAD\pcb_cpu_memory.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "D:\Program\WORK_ORCAD\ÓÑÏÄ_2\ PCB_CPU_memory\ORCAD\pcb_cpu_memory.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 389"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 52 1206 52 472")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROGRAM\WORK_ORCAD\ÓÑÏÄ_2\ PCB_CPU_MEMORY\ORCAD\PCB_CPU_MEMORY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
